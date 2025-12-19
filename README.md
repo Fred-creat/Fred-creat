@@ -23,7 +23,8 @@ Atualmente buscando **oportunidades remotas**, incluindo **empresas internaciona
 Plataforma completa de anúncios (imóveis, lanchas, ferramentas), com autenticação, favoritos, painel admin e persistência de dados.
 
 **Stack:** React Native, Expo, Context API, AsyncStorage  
-🔗 Repositório: https://github.com/Fred-creat/SEU-REPO  
+🔗 Repositório: https://github.com/Fred-creat/NovoAppAlugueJa
+ 
 📱 Demo: Em desenvolvimento
 
 ---
