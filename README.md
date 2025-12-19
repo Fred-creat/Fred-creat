@@ -44,7 +44,9 @@ Git & GitHub – Controle de versão
 Site pessoal desenvolvido para apresentar projetos, habilidades e evolução técnica.
 
 **Stack:** HTML, CSS, JavaScript  
-🔗 Repositório: https://github.com/Fred-creat/MEU-PORTIFÓLIO  
+🔗 Repositório: https://github.com/Fred-creat/Meu-Portifólio
+Público
+ 
 🌍 Demo: Em desenvolvimento
 
 ---
