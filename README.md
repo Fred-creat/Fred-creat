@@ -1,42 +1,76 @@
-## Hi there 👋
-Sou Fredson Lemos, programador FrontEnd, estou em constante apredizado , criando projetos em :
+# 👋 Olá! Eu sou Fredson Maikon
 
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+🚀 Desenvolvedor **Front-End Pleno**, com foco em **React**, **JavaScript** e **experiência real em projetos completos** — do layout à lógica.
 
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+Atualmente buscando **oportunidades remotas**, incluindo **empresas internacionais (Europa / Espanha)**.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascrip-logo"/>
+---
 
-<br/>
-Frameworks:
+## 🛠️ Tecnologias & Ferramentas
 
-<br/>
-<br/>
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsivo)  
+- JavaScript (ES6+)  
+- React.js  
+- Vite  
+- Git & GitHub  
 
-<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
+---
 
-<br/>
-<br/>
+## 📌 Projetos em Destaque
 
-CONTATO:
+### 🏠 **App AlugueJá**
+Plataforma completa de anúncios (imóveis, lanchas, ferramentas), com autenticação, favoritos, painel admin e persistência de dados.
 
-<br/>
+**Stack:** React Native, Expo, Context API, AsyncStorage  
+🔗 Repositório: https://github.com/Fred-creat/SEU-REPO  
+📱 Demo: Em desenvolvimento
 
-<p>
- <a href="www.linkedin.com/in/fredsonlemos">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
- </a>
+---
 
- <br/>
+### 🏠 **Site TopTur Bahia**
+Plataforma completa de anúncios (imóveis, lanchas, ferramentas), com autenticação, favoritos, painel admin e persistência de dados.
 
-  <a href="https://wa.me/5575999242184?text=Obrigado%20por%20entrar%20em%20contato!%0ANo%20que%20posso%20ser%20%C3%BAtil%3F" target="_blank" class="btn-whatsapp">
-      
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="linkedin-logo">
- </a>
-</p>
+**Stack:** React, Context API, AsyncStorage  
+🔗 Repositório: https://github.com/Fred-creat/ 
+📱 Demo: topturbahia.com
 
 
+### 🌐 **Portfólio Pessoal**
+Site pessoal desenvolvido para apresentar projetos, habilidades e evolução técnica.
 
+**Stack:** HTML, CSS, JavaScript  
+🔗 Repositório: https://github.com/Fred-creat/MEU-PORTFOLIO  
+🌍 Demo: Em desenvolvimento
+
+---
+
+## 📜 Certificações
+
+- HTML5  
+- CSS3 (Básico e Avançado)  
+- React  
+- Git & GitHub
+- wordpress (básico)
+- React Native 
+---
+
+## 🌍 Idiomas
+- Português: Nativo  
+- Inglês: Intermediário (leitura e documentação)
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/Fred-creat  
+- LinkedIn: www.linkedin.com/in/fredsonlemos 
+- Email: fredsonsouzalemos@gmail.com
+- Telefone: 7599924-2184
+
+---
+
+⭐ Sempre aberto a novos desafios e aprendizado contínuo.
 
 
 
