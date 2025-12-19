@@ -35,7 +35,7 @@ O projeto apresenta passeios, serviços e informações de forma clara e atrativ
 **Stack:**  React, @formspree/react, react-dom, react-router-dom, styled-components.
 
 Git & GitHub – Controle de versão 
-🔗 Repositório: https://github.com/Fred-creat/ 
+🔗 Repositório: https://github.com/Fred-creat/Toptur-Site 
 📱 Demo: topturbahia.com
 
 
