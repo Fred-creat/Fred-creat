@@ -29,9 +29,12 @@ Plataforma completa de anúncios (imóveis, lanchas, ferramentas), com autentica
 ---
 
 ### 🏠 **Site TopTur Bahia**
-Plataforma completa de anúncios (imóveis, lanchas, ferramentas), com autenticação, favoritos, painel admin e persistência de dados.
+Site institucional desenvolvido para promover experiências turísticas na Bahia, com foco em usabilidade, design responsivo e performance.
 
-**Stack:** React, Context API, AsyncStorage  
+O projeto apresenta passeios, serviços e informações de forma clara e atrativa, valorizando a experiência do usuário em dispositivos móveis e desktop.
+**Stack:**  React, @formspree/react, react-dom, react-router-dom, styled-components.
+
+Git & GitHub – Controle de versão 
 🔗 Repositório: https://github.com/Fred-creat/ 
 📱 Demo: topturbahia.com
 
