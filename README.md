@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor **Front-End Pleno**, com foco em **React**, **JavaScript** e **experiência real em projetos completos** — do layout à lógica.
 
-Atualmente buscando **oportunidades remotas**, incluindo **empresas internacionais (Europa / Espanha)**.
+Atualmente buscando **oportunidades remotas** no Brasil, e **empresas internacionais (Europa / Espanha)**.
 
 ---
 
