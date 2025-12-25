@@ -20,6 +20,7 @@ Atualmente buscando **oportunidades remotas** no Brasil, e **empresas internacio
 ## 📌 Projetos em Destaque
 
 ### 🏠 **App AlugueJá**
+(em refatoração)
 Plataforma completa de anúncios (imóveis, lanchas, ferramentas), com autenticação, favoritos, painel admin e persistência de dados.
 
 **Stack:** React Native, Expo, Context API, AsyncStorage  
@@ -48,6 +49,17 @@ Site pessoal desenvolvido para apresentar projetos, habilidades e evolução té
 Público
  
 🌍 Demo: Em desenvolvimento
+
+
+
+### 🌐 **Bahia Digital Studio**
+Site pessoal desenvolvido para apresentar projetos, habilidades e evolução técnica.
+
+**Stack:** React, @formspree/react, react-dom, react-router-dom, styled-components.   
+🔗 Repositório: https://github.com/Fred-creat/bahiadigitalstudio
+Público
+ 
+🌍 Demo: bahiadigitalstudio.vercel.app
 
 ---
 
