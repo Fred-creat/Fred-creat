@@ -38,7 +38,7 @@ O projeto apresenta passeios, serviços e informações de forma clara e atrativ
 
 Git & GitHub – Controle de versão 
 🔗 Repositório: https://github.com/Fred-creat/Toptur-Site 
-📱 Demo: topturbahia.com
+📱 Demo: https://www.topturbahia.com
 
 
 ### 🌐 **Portfólio Pessoal**
@@ -60,7 +60,7 @@ Site pessoal desenvolvido para apresentar projetos, habilidades e evolução té
 🔗 Repositório: https://github.com/Fred-creat/bahiadigitalstudio
 Público
  
-🌍 Demo: bahiadigitalstudio.vercel.app
+🌍 Demo: https://bahiadigitalstudio.vercel.app
 
 ---
 
