@@ -44,11 +44,12 @@ Git & GitHub – Controle de versão
 ### 🌐 **Portfólio Pessoal**
 Site pessoal desenvolvido para apresentar projetos, habilidades e evolução técnica.
 
-**Stack:** HTML, CSS, JavaScript  
-🔗 Repositório: https://github.com/Fred-creat/Meu-Portifólio
+**Stack:**  React, @formspree/react, react-dom, react-router-dom, styled-components.
+
+🔗 Repositório: https://github.com/Fred-creat/New-Portifólio
 Público
  
-🌍 Demo: Em desenvolvimento
+🌍 Demo: https://new-portfolio-inky-seven.vercel.app/
 
 
 
