@@ -1,10 +1,8 @@
 # 👋 Olá! Eu sou Fredson Maikon
+Frontend Developer | React / React Native | Expo | JavaScript
+Construindo aplicativos Mobile e Web com backend real integrado.
+Aberto a oportunidades internacionais e remotas.
 
-🚀 Desenvolvedor **Front-End Pleno**, com foco em **React**, **JavaScript** e **experiência real em projetos completos** — do layout à lógica.
-
-Atualmente buscando **oportunidades remotas** no Brasil, e **empresas internacionais (Europa / Espanha)**.
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
