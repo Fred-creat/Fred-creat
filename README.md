@@ -1,94 +1,128 @@
-# 👋 Olá! Eu sou Fredson Maikon
+# Hi there! 👋 I'm Fredson Maikon
 
-Frontend Developer | React | React Native | Expo | JavaScript  
-Construindo aplicações **Mobile e Web** integradas a **backends reais**, com foco em boas práticas e projetos funcionais.  
-Aberto a oportunidades **remotas e internacionais**.
+## Software Engineer • AI Applications • Full Stack • SaaS
 
----
+I'm a Brazilian Software Engineer passionate about building scalable applications, AI-powered SaaS products and solving real business problems through technology.
 
-## 🚀 Projetos Principais
-
-### 📱 **SnackFOOD — App Mobile**
-Aplicação mobile desenvolvida em **React Native (Expo)** para pedidos de comida, integrada a um **backend real em Node.js**.
-
-- Listagem de produtos
-- Criação de pedidos
-- Comunicação com API REST
-- App funcional rodando via Expo
-
-**Stack:** React Native, Expo, JavaScript, Axios, Node.js  
-🔗 Repositório: https://github.com/Fred-creat/snackfood-mobile  
-📱 Status: MVP funcional
+Currently focused on modern Full Stack development using React, Next.js, TypeScript, Node.js and Artificial Intelligence.
 
 ---
 
-### 🏠 **App AlugueJá**
-Plataforma de anúncios (imóveis, lanchas, ferramentas), com foco em experiência do usuário e integração completa com backend.
+## 🚀 What I'm Building
 
-- Criação e aprovação de anúncios
-- Favoritos
-- Painel administrativo
-- Persistência de dados
+### ZapAgent SaaS
 
-**Stack:** React Native, Expo, Context API, AsyncStorage  
-🔗 Repositório: https://github.com/Fred-creat/NovoAppAlugueJa  
-📱 Status: em evolução / refatoração
+An AI-powered WhatsApp automation platform featuring:
 
----
-
-## 🌐 Projetos Web
-
-### **TopTur Bahia**
-Site institucional para divulgação de experiências turísticas, com foco em design responsivo e performance.
-
-**Stack:** React, React Router, Styled Components  
-🔗 Repositório: https://github.com/Fred-creat/Toptur-Site  
-🌍 Demo: https://www.topturbahia.com
+- 🤖 AI Customer Support
+- 💬 WhatsApp Integration
+- 📊 CRM & Lead Management
+- ⚡ Real-time Dashboard
+- 📦 Intelligent Order Detection
+- 🧠 Google Gemini AI
+- 🏢 Multi-tenant Architecture
 
 ---
 
-### **Portfólio Pessoal**
-Site desenvolvido para apresentar projetos, habilidades e evolução técnica.
+## 💼 Featured Projects
 
-**Stack:** React, React Router, Styled Components  
-🔗 Repositório: https://github.com/Fred-creat/New-Portifólio  
-🌍 Demo: https://new-portfolio-inky-seven.vercel.app
+### 🚀 ZapAgent
 
----
+AI-powered WhatsApp SaaS Platform
 
-## 🛠️ Tecnologias & Ferramentas
+**Stack**
 
-- JavaScript (ES6+)
-- React.js
-- React Native
-- Expo
-- HTML5 & CSS3 (Flexbox, Grid, Responsivo)
-- Git & GitHub
-- Vite
-
----
-
-## 📜 Certificações
-- HTML5
-- CSS3 (Básico e Avançado)
+- Next.js
 - React
+- TypeScript
+- Node.js
+- Prisma
+- PostgreSQL
+- Socket.IO
+- Google Gemini
+
+---
+
+### 📱 AppAlugueJá
+
+Marketplace platform developed with React Native and Node.js.
+
+Features
+
+- Authentication
+- Marketplace
+- Admin Dashboard
+- REST API
+- PostgreSQL
+
+---
+
+### 🍔 SnackFood
+
+Food Delivery Platform
+
+Features
+
+- Mobile App
+- Dashboard
+- Orders
+- Inventory
+- Business Management
+
+---
+
+# 🛠 Tech Stack
+
+### Front-end
+
+- React
+- Next.js
 - React Native
-- Git & GitHub
-- WordPress (básico)
+- JavaScript
+- TypeScript
+
+### Back-end
+
+- Node.js
+- Express
+
+### Database
+
+- PostgreSQL
+- Prisma
+- SQLite
+
+### AI
+
+- Google Gemini
+- Prompt Engineering
+- AI Automation
+
+### Cloud
+
+- Railway
+- Vercel
+- Render
 
 ---
 
-## 🌍 Idiomas
-- Português: Nativo  
-- Inglês: Intermediário (leitura técnica e documentação)
+# 🎯 Current Goals
+
+- Build world-class AI SaaS products
+- Work with international engineering teams
+- Design scalable software architectures
+- Keep learning every day
 
 ---
 
-## 📫 Contato
-- GitHub: https://github.com/Fred-creat  
-- LinkedIn: https://www.linkedin.com/in/fredsonlemos  
-- Email: fredsonsouzalemos@gmail.com
+# 📫 Contact
+
+📍 Brazil
+
+💼 LinkedIn
+
+🌐 Portfolio
 
 ---
 
-⭐ Sempre em busca de evolução técnica, boas práticas e novos desafios.
+> Building software that creates real impact.
