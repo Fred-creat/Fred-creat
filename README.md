@@ -120,8 +120,10 @@ Features
 📍 Brazil
 
 💼 LinkedIn
+www.linkedin.com/in/fredsonlemos
 
 🌐 Portfolio
+https://new-portfolio-inky-seven.vercel.app/
 
 ---
 
